@@ -54,5 +54,39 @@
 
  # React Hooks
  (Normal JS functions)
- - useState()
+ - useState() - Superpowerful State variables 
  - useEffect()
+
+ # Routing Methods
+ - Client Side Routing
+ - Server Side Routing
+
+ # Redux Toolkit
+ - Install @reduxjs/toolkit and react-redux
+ - Build our store
+ - Connect store to our app
+ - Slice (cartSlice)
+ - dispatch(action)
+ - Selector
+
+ # Types of Testing (developer)
+ - Unit Testing
+ - Integration Testing
+ - End to End Testing - e2e testing
+
+ # Setting up Testing in our App
+ - Install React Testing Library
+ - Installed jest
+ - Installed Babel dependencies
+ - Configure Babel
+ - Configure PARCEL Config file to disable default babel transpilation
+ - Jest Configuartion
+ - Jest - npx jest --init
+ - install jsdom libarry.
+ - install @babel/preset-react - to make JSX work in test cases
+ - Include @babel/preset-react inside my babel config
+ - Install @testing-library/jest-dom
+
+
+
+
